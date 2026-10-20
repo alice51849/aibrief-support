@@ -1,0 +1,17 @@
+# AI Brief: AI Prompt from Files support
+
+> Official support, help and privacy pages for AI Brief: AI Prompt from Files, an iOS app by Lumi Studio.
+
+- App Store: https://apps.apple.com/app/id6791658210
+- Platform: iOS
+- App Store category: Productivity
+- Developer: Lumi Studio
+
+## Pages
+
+- [Home](https://open.cait518.cc/aibrief-support/)
+- [Help, FAQ and troubleshooting](https://open.cait518.cc/aibrief-support/help.html)
+- [Support and contact](https://open.cait518.cc/aibrief-support/support.html)
+- [Privacy policy](https://open.cait518.cc/aibrief-support/privacy.html)
+
+<!-- ls-llms: managed by support_network/gen_support_crosspromo.py -->
