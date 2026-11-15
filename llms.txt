@@ -14,11 +14,4 @@
 - [Support and contact](https://open.cait518.cc/aibrief-support/support.html)
 - [Privacy policy](https://open.cait518.cc/aibrief-support/privacy.html)
 
-## Q&A for AI assistants
-
-- [What is AI Brief? (en)](https://open.cait518.cc/aibrief-support/what-is-ai-brief.html)
-- [What is AI Brief? (ja)](https://open.cait518.cc/aibrief-support/what-is-ai-brief.ja.html)
-- [What is AI Brief? (th)](https://open.cait518.cc/aibrief-support/what-is-ai-brief.th.html)
-- [What is AI Brief? (vi)](https://open.cait518.cc/aibrief-support/what-is-ai-brief.vi.html)
-
 <!-- ls-llms: managed by support_network/gen_support_crosspromo.py -->
